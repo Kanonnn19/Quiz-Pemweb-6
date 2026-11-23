@@ -1,0 +1,51 @@
+export const dummyTodos = [
+  {
+    id: 1,
+    title: "Mengerjakan Proyek Computer Vision",
+    description:
+      "Menyelesaikan proyek akhir computer vision tentang deteksi penggunaan helm.",
+    priority: "high",
+    deadline: "2026-11-27",
+    status: "in progress",
+  },
+  {
+    id: 2,
+    title: "Mempelajari Dasar Zustand",
+    description: "Memahami konsep store dan action pada Zustand.",
+    priority: "low",
+    deadline: "2026-12-05",
+    status: "in progress",
+  },
+  {
+    id: 3,
+    title: "Membuat Website Portfolio",
+    description: "Merancang halaman portfolio berisi profil, proyek, dan kontak.",
+    priority: "medium",
+    deadline: "2026-11-19",
+    status: "in progress",
+  },
+  {
+    id: 4,
+    title: "Mempelajari React Hooks",
+    description: "Latihan useState, useEffect, dan membuat custom hook sederhana.",
+    priority: "low",
+    deadline: "2026-10-11",
+    status: "to-do",
+  },
+  {
+    id: 5,
+    title: "Menyiapkan Slide Presentasi",
+    description: "Menyusun slide bagian kesimpulan dan latihan presentasi.",
+    priority: "high",
+    deadline: "2026-11-21",
+    status: "to-do",
+  },
+  {
+    id: 6,
+    title: "Mengumpulkan Laporan Praktikum",
+    description: "Mengunggah laporan praktikum beserta source code.",
+    priority: "high",
+    deadline: "2026-11-12",
+    status: "done",
+  },
+];
